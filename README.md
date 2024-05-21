@@ -1,6 +1,6 @@
 
 
-# Machine Learning Algorithms Repository
+# Machine Learning From Maths
 
 This repository contains implementations of several machine learning algorithms including PCA, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Logistic Regression (LR), Decision Tree, Random Forest, AdaBoost, and Perceptron. Additionally, classes for testing these implementations are also included.
 
