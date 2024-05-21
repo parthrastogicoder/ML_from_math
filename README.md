@@ -9,11 +9,12 @@ This repository contains implementations of several machine learning algorithms 
 1. **Principal Component Analysis (PCA)**
 2. **K-Nearest Neighbors (KNN)**
 3. **Support Vector Machine (SVM)**
-4. **Logistic Regression (LR)**
-5. **Decision Tree**
-6. **Random Forest**
-7. **AdaBoost**
-8. **Perceptron**
+4. **Logistic Regression**
+5. **Linear Regression (LR)**
+6. **Decision Tree**
+7. **Random Forest**
+8. **AdaBoost**
+9. **Perceptron**
 
 ## Testing Classes
 
