@@ -4,7 +4,7 @@
 
 This repository contains implementations of several machine learning algorithms including PCA, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Logistic Regression (LR), Decision Tree, Random Forest, AdaBoost, and Perceptron. Additionally, classes for testing these implementations are also included.
 
-##Recently included Neural Network with example run on mnist and cifar100
+###Recently included Neural Network with example run on mnist and cifar100!!
 
 ## Algorithms Implemented
 
